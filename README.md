@@ -1,2 +1,2 @@
 # GoogleMaps-Distance
-Assignment for internship at Spacekawa Explorations Private Limited
+Finding nearest building/road to the midpoint of the image.
